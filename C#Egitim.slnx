@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="01_MainSubjects/01_MainSubjects.csproj" Id="bcb381e2-d0a0-4b59-8749-5e693e14a635" />
+  <Project Path="02_DBProject/02_DBProject.csproj" Id="f7f38c9b-c7fe-4da7-b1e4-2729c9d8330b" />
+  <Project Path="03_DBCRUD/03_DBCRUD.csproj" Id="209afa01-da8d-483d-af03-2f3537fdc8a7" />
+  <Project Path="GamerCRUD/GamerCRUD.csproj" Id="ce8e33c6-5337-40ff-b47d-656e6335a6d7" />
+</Solution>
